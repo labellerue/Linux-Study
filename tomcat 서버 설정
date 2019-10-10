@@ -1,4 +1,4 @@
-tomcat 서버 경로 설정
+tomcat 서버 설정
 
 /* JAVA_HOME, CATALINA_HOME 경로 수정 */
 JAVA_HOME은 jdk 위치
