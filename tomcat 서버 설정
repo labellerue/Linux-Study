@@ -10,6 +10,9 @@ CATALINA_HOME은 tomcat 위치
 JAVA_HOME=/경로/경로/jdk1.8
 CATALINA_HOME=/경로/경로/tomcat
 
+반영하기
+source /etc/profile
+
 
 - jdk 경로 찾기
 먼저 javac 위치 검색 : which javac
